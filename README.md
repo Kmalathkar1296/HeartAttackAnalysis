@@ -36,5 +36,3 @@ Predict variable (desired target)
 4. P-values for the model 2(i.e., m2) for all values are less than 0.05. Hence we can state that model 2 is the best model.
 5. According the Wald Chi-Square analysis, we can state that feature prevalentHyp, age, and cigsPerDay are the top 3 most impactful features for predicting the heart stroke.
 6. Achieved the ROC at 0.53
-
-Source: https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression
